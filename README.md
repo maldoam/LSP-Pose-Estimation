@@ -1,2 +1,2 @@
-# LSP-Pose-Estimation
-Body Pose estimation using Leeds Sports Dataset
+**How to run**
+1. Open [`Final_Project.ipynb`](Final_Project.ipynb) in Jupyter Notebook
